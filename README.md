@@ -22,7 +22,7 @@ Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub 
 
 
 ## Licence `CC BY`
-![logo-CC-BY](img/by.svg)   
+![logo CC-BY](icones/by.svg)   
 Ce document est mis à disposition selon les termes de la Licence [Creative Commons Paternité 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).   
 Les fichiers source sont disponibles sur [https://www.gitbook.com/book/fbib/kit-formateur-debutant](https://www.gitbook.com/book/fbib/kit-formateur-debutant).   
 
