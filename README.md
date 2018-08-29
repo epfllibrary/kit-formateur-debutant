@@ -32,4 +32,4 @@ La date de consultation correspond à la date de publication de la présente ver
 
 ## Crédits
 Les icônes utilisées sur la couverture ont été créées par Freepik et publiées sur [flaticon.com](icones/license.html).   
-Elles sont toutes disponibles dans les sources de ce document: [https://github.com/epfllibrary/kit-formateur-debutant/icones](https://github.com/epfllibrary/kit-formateur-debutant/icones)
+Elles sont toutes disponibles dans les sources de ce document: [https://github.com/epfllibrary/kit-formateur-debutant/tree/master/icones](https://github.com/epfllibrary/kit-formateur-debutant/tree/master/icones)
