@@ -10,10 +10,10 @@ Cette méthode est parfaitement adaptée à de la formation personalisée.
 
 ### Temps nécessaire
 
-Le temps de préparation varie en fonction du sujet, mais il n'est en principe pas très important. Une bonne préparation  ou une connaissance pointue du sujet, couplées à une présentation claire, sont toutefois nécessaire. Le temps de formation, lui, dépend principalement du niveau de l'apprenant.
+Le temps de préparation varie en fonction du sujet, mais il n'est en principe pas très important. Une bonne préparation ou une connaissance pointue du sujet, couplées à une présentation claire, sont toutefois nécessaire. Le temps de formation, lui, dépend principalement du niveau de l'apprenant.
     
 ### Exemple
 
 Vous voulez faire comprendre à un enseignant quand l'exception pédagogique s'applique.
-Vous lui expliquez le principe de base et les condtions à remplir (matériel circonscrit à une classe). S'il saisit cela, vous pouvez aller plus loin en abordant les dispositifs de plus en plus éloigné de l'exception pédagogique (Moodle, site web dédié avec gestion des accès, MOOC, site wen ouvert à tous).
+Vous lui expliquez le principe de base et les condtions à remplir (matériel circonscrit à une classe). S'il saisit cela, vous pouvez aller plus loin en abordant les dispositifs de plus en plus éloigné de l'exception pédagogique (Moodle, site web dédié avec gestion des accès, MOOC, site web ouvert à tous).
 
