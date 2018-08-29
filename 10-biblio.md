@@ -4,6 +4,7 @@ Cette liste fournit aussi bien les références des ouvrages cités dans le pré
 
 Cette bibliographie est tenue à jour sur [Zotero](https://www.zotero.org/groups/2212172/kit_formateur_dbutant/items).
 
+---
 
 ALLAN, Barbara, 2013. *The no-nonsense guide to training in libraries*. London : Facet Publishing. ISBN 978-1-85604-828-6.   
 
