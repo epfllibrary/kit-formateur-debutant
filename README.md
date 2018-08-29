@@ -2,12 +2,12 @@
 
 
 ## Contexte
-Cet atelier a été créé pour le **Congrès BIS 2018** (29-31 août 2018) à Montreux
+Notes de cours de l'atelier créé pour le **Congrès BIS 2018** (29-31 août 2018) à Montreux
 
 
 ## Objectifs du cours
 
-
+Donner aux formateurs débutants des bases et des ressources pour préparer une formation
 
 ## Auteur
 Mathilde Panes, *bibliothécaire et formatrice*   
@@ -17,14 +17,13 @@ Raphaël Grolimund, *bibliothécaire formateur*
 
 
 ## Version `0.1`
-La dernière version de ce document est disponible sur [https://www.gitbook.com/book/fbib/kit-formateur-debutant](https://www.gitbook.com/book/fbib/kit-formateur-debutant).   
-Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
+La dernière version de ce document est disponible sur [https://fbib.gitbook.io/kit-formateur-debutant/](https://fbib.gitbook.io/kit-formateur-debutant/).   
 
 
 ## Licence `CC BY`
 ![logo CC-BY](icones/by.svg)   
 Ce document est mis à disposition selon les termes de la Licence [Creative Commons Paternité 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).   
-Les fichiers source sont disponibles sur [https://www.gitbook.com/book/fbib/kit-formateur-debutant](https://www.gitbook.com/book/fbib/kit-formateur-debutant).   
+Les fichiers source sont disponibles sur [https://github.com/epfllibrary/kit-formateur-debutant](https://github.com/epfllibrary/kit-formateur-debutant).   
 
 ## Informations complémentaires
 Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   
