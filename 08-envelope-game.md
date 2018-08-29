@@ -25,4 +25,4 @@ Vous répartissez les étudiants en 4 groupes et vous leur donnez les 4 points s
 3. définir le personnel nécessaire pour faire tourner le journal
 4. décider du modèle économique (journal traditionnel ou *Open Access*, prix pratiqués, etc.)
 
-Chacun de ses problèmes n'a une seule solution correcte.
+Chacun de ses problèmes n'a pas qu'une seule solution correcte.
