@@ -1,4 +1,4 @@
-# Flipped-classrom
+# Flipped-classroom
 
 ### Description
 Dans la classe inversée, les connaissances théoriques sont apportées grâce à un apprentissage préalable, avant que le cours ait lieu, et les activités pour appliquer les connaissances sont prévues durant le temps n classe. 
