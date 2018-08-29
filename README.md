@@ -9,7 +9,7 @@ Cet atelier a été créé pour le **Congrès BIS 2018** (29-31 août 2018) à M
 
 
 
-## Auteur
+## Auteurs
 Mathilde Panes, *bibliothécaire et formatrice*   
 [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 Raphaël Grolimund, *bibliothécaire formateur*   
