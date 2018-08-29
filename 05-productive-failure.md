@@ -2,7 +2,7 @@
 
 ### Description
 
-"Les apprenants essaient de résoudre un problème complexe avant que les principes et méthodes correctes ne leur soient enseignées. Les essais initiaux les amène à échouer ou à trouver une solution médiocre, mais le processus d'exploration de différentes pistes les mets sur la voie d'une compréhension plus profonde. L'enseignant-e explique ensuite la solution correcte et les principes qui lui sous-tendent." (trad. et légèrement adapté de Sharples, 2016, p. 16)
+"Les apprenants essaient de résoudre un problème complexe avant que les principes et méthodes correctes ne leur soient enseignées. Les essais initiaux les amènent à échouer ou à trouver une solution médiocre, mais le processus d'exploration de différentes pistes les met sur la voie d'une compréhension plus profonde. L'enseignant-e explique ensuite la solution correcte et les principes qui lui sous-tendent." (trad. et légèrement adapté de Sharples, 2016, p. 16)
 
 L'important est de bien définir le problème soumis aux apprenants en fonction des principes et méthodes que vous voulez leur faire comprendre.
 
