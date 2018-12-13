@@ -16,8 +16,9 @@ Raphaël Grolimund, *bibliothécaire formateur*
 [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)   
 
 
-## Version `0.1`
+## Version `0.1.1`
 La dernière version de ce document est disponible sur [https://fbib.gitbook.io/kit-formateur-debutant/](https://fbib.gitbook.io/kit-formateur-debutant/).   
+Pour obtenir une version PDF, EPUB ou MOBI de ce document, rendez-vous sur [https://legacy.gitbook.com/book/grolimur/formation-des-usagers-kit-de-survie/](https://legacy.gitbook.com/book/grolimur/formation-des-usagers-kit-de-survie/).
 
 
 ## Licence `CC BY`
