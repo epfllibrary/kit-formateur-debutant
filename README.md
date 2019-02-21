@@ -1,4 +1,4 @@
-# Formation des usagers: kit de survie à l'attention des formateurs débutants
+# Formation des usagers: kit de survie à l'attention des formateurs
 
 
 ## Contexte
