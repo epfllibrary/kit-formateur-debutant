@@ -2,7 +2,7 @@
 
 
 ## Contexte
-Notes de cours de l'atelier créé pour le **Congrès BIS 2018** (29-31 août 2018) à Montreux
+Notes de cours de l'atelier créé pour le **Congrès BIS 2018** (29-31 août 2018) à Montreux (version 0.1.1). Ce document est réutilisé dans le cadre de la formation de formateurs à la Bibliothèque de l'EPFL.
 
 
 ## Objectifs du cours
@@ -10,13 +10,13 @@ Notes de cours de l'atelier créé pour le **Congrès BIS 2018** (29-31 août 20
 Donner aux formateurs débutants des bases et des ressources pour préparer une formation
 
 ## Auteurs
-Mathilde Panes, *bibliothécaire et formatrice*   
+Mathilde Panes, *bibliothécaire formatrice*   
 [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 Raphaël Grolimund, *bibliothécaire formateur*   
 [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)   
 
 
-## Version `0.1.1`
+## Version `0.2`
 La dernière version de ce document est disponible sur [https://fbib.gitbook.io/kit-formateur-debutant/](https://fbib.gitbook.io/kit-formateur-debutant/).   
 Pour obtenir une version PDF, EPUB ou MOBI de ce document, rendez-vous sur [https://legacy.gitbook.com/book/grolimur/formation-des-usagers-kit-de-survie/](https://legacy.gitbook.com/book/grolimur/formation-des-usagers-kit-de-survie/).
 
