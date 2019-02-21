@@ -8,6 +8,6 @@ Nous proposons ici aux participants de sélectionner les  méthodes et outils qu
 
 Ce kit contient :
 - une introduction
-- des méthodes, selon la composition de chacun
+- des méthodes
 - une liste des autres méthodes pédagogiques à explorer
 - une bibliographie 
