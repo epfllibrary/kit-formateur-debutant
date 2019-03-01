@@ -4,15 +4,17 @@
 
 "Le jeu de l'enveloppe est particulièrement adapté à la recherche de solutions à plusieurs problèmes donnés." (Hourst, 2015, p. 79)
 
-Cet exercice comporte une étape un peu délicate: le 1er groupe qui traite un problème ne doit pas chercher des solutions; ce groupe doit définir les critères qui vont servir à évaluer les solutions des autres groupes.
+L'activité se déroule en plusieurs phases. Premièrement, il s'agit pour chacun des groupes de définir une liste de critères d'évaluation pour les futures solutions proposées. Puis chaque groupe se penche sur un problème différent de celui pour lequel il a défini des critères.
+
+Cette activité comporte une étape un peu délicate: le 1er groupe qui traite un problème ne doit pas chercher des solutions; ce groupe doit définir les critères qui vont servir à évaluer les solutions des autres groupes.
 
 ### Taille du groupe
 
-Cette méthode est adaptée à des groupes de la taille d'une classe (15 à 30 personnes).
+Cette méthode est adaptée à des groupes de la taille d'une classe (15 à 30 personnes). Il faut au minimum 6 personnes.
 
 ### Temps nécessaire
 
-Il faut compter 20-25 minutes par groupe. Ainsi, si vous formez 4 groupes, l'exercice durera entre 1h20 et 1h45 (mise en commun et correction comprises). Le temps de préparation est de l'ordre de 1-2h.
+Il faut compter 20-25 minutes par groupe. Ainsi, si vous formez 4 groupes, l'exercice durera entre 1h20 et 1h45 (mise en commun et correction comprises). 
 
 ### Exemple
 
