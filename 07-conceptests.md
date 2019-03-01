@@ -1,7 +1,7 @@
 # Questions conceptuelles (Concept tests)
 
 ### Description
-Les questions conceptuelles ou, en anglais, concept tests, telles que décrites par Eric Mazur (Mazur, 2014) sont une méthode qui permet de vérifier la compréhension d'un concept par les participants. Trop souvent le formateur ou la formatrice ne s'assure pas réellement qu'une notion est acquise. Il / elle  va simplement demander si les apprenants ont des questions ou poser une question qui fait appel à la mémoire et non à la compréhension du contexte. Les questions conceptuelles ont pour but de vérifier que le concept est compris. D'une part, la nature des questions se concentre sur un concept. D'autre part, les apprenants ont la possibilité de discuter du concept avec leurs pairs et ainsi de confronter leur compréhension du concept en s'adressant à une autre personne. 
+Les questions conceptuelles ou, en anglais, *concept tests*, telles que décrites par Eric Mazur (Mazur, 2014) sont une méthode qui permet de vérifier la compréhension d'un concept par les participants. Trop souvent la formatrice ou le formateur ne s'assure pas réellement qu'une notion est acquise. Elle/il  va simplement demander si les apprenants ont des questions ou poser une question qui fait appel à la mémoire (appris par coeur) et non à la compréhension du concept. Les questions conceptuelles ont pour but de vérifier que le concept est compris. D'une part, la nature des questions se concentre sur un concept. D'autre part, les apprenants ont la possibilité de discuter du concept avec leurs pairs et ainsi de confronter leur compréhension du concept en s'adressant à une autre personne. 
 
 ### Taille du groupe
 
